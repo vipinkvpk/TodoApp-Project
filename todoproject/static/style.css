@@ -1,0 +1,15 @@
+.banner{
+    background-color: powderblue;
+    width : 1000%;
+    height :150px;
+    margin-bottom:50px;
+}
+
+
+.banner-text{
+top:8%;
+left:47%;
+font size:150;
+position:absolute;
+transform:transform;
+}
